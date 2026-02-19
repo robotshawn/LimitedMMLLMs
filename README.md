@@ -1,6 +1,8 @@
 # LimitedMMLLMs
 有限场景的多模态“大”模型，争取做到，“麻雀虽小，五脏俱全”
 
+以下目录~/workspace/vlm_limited是本地的，大家可以将其替换为.../LimitedMMLLMs。基本代码都在脚本里面，数据可以自己按照下面的流程构建。
+
 硬件条件：
 Intel® Core™ i7-7820X CPU @ 3.60GHz × 16，Ubuntu 22.04.4 LTS，nvidia rtx 5070 Ti，现有环境：
 fight@fight-System-Product-Name:~$ nvidia-smi
